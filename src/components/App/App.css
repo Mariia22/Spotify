@@ -25,6 +25,8 @@ h1 .highlight {
 h2 {
   font-family: 'Poppins', sans-serif;
   font-size: 1.55rem;
+  border-bottom: 1px solid #6f6f6f;;
+  padding-bottom: 15px;
 }
 
 .App {
